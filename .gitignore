@@ -1,0 +1,12 @@
+*.pdf
+build*
+nbproject
+manifest*
+*.txt
+*.zip
+*.rar
+dist
+Corpus
+bug
+*.jar
+*.xml
