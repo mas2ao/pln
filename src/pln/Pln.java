@@ -11,6 +11,8 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -398,13 +400,13 @@ public class Pln {
 
             ArrayList<String> st = getStatements(pdfLine);
 
-            art.setAuthor(findAuthors(text));
+//            art.setAuthor(findAuthors(text));
 //            art.setAdress(findAddress(st));
 //            art.setObjective(findObjective(st));
 //            art.setProblem(findProblem(st));
 //            art.setMethod(findMethod(st));
 //            art.setContributions(findContribution(st));
-//            art.setReferences(extractReferences(art.getRefe()));
+            art.setReferences(extractReferences(art.getRefe()));
             artigos.put(children[i], art);
         }
 //        System.out.println("stop word");
@@ -438,6 +440,21 @@ public class Pln {
 //            }
 //        }
 
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/"+ key, "UTF-8");
+                for (String ref : artigos.get(key).getReferences()) {
+                    writer.println(ref);
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
     }
-
 }

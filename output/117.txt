@@ -1,0 +1,58 @@
+[1] Brynjolfsson E, Hitt LM. Beyond the productivity paradox. Communications of the ACM 1998;41(8):49–55.
+[2] Bresnahan T, Brynjolfsson E, Hitt L. Information technology, work organizational and the demand for skilled labor: firm-level evidence.
+[3] Achrol RS. Changes in the theory of interorganizational relations inmarketing: toward a network paradigm. Journal of theAcademy ofMarketing
+[4] Bensaou M. Portfolios of buyer–supplier relationships. Sloan Management Review 1999;4(40):35–44.
+[5] Dyer JH, SinghH. The relational view: cooperative strategy and sources of interorganizational competitive advantage.Academy ofManagement
+[6] Michael F. Corbett & Associates The 1999 Strategic Outsourcing Study. 2001. Feb 2, 1999 〈http://www.corbettgroup.com/resources/
+[7] Mayor T. Our vendors, ourselves. CIO 2000;14(3):195–200.
+[8] Loh L,VenkatramanN. Diffusion of information technology outsourcing: influence sources and the kodak effect. Information Systems Research
+[9] Mata FJ, Fuerst WL, Barney JB. Information technology and sustained competitive advantage. MIS Quarterly 1995;19(4):487–505.
+[10] Caldwell B. Outsourcing backlash. InformationWeek 1997;650(September 29):14–6.
+[11] Clemons EK, Reddi SP, Row MC. The impact of information technology on the organization of economic activity: the “move to the middle”
+[12] Subramani MR, Walden EA. The impact of E-commerce announcements on the market value of firms. Information System Research
+[13] Snir EM, Hitt LM. Vendor screening in information technology contracting with a pilot project. Working paper, University of Pennsylvania,
+[14] Snir EM. Designing Internet spot markets for IT services. Working paper, Wharton School of Business, University of Pennsylvania, 2000
+[15] Clemons E, Hitt LM. Poaching and the misappropriation of information: an increasingly important form of opportunism. Working paper,
+University of Pennsylvania, 2000.
+[16] Coase RH. The nature of the firm. Economica 1937;4(4):386–405.
+[17] Williamson O. Markets and hierarchies: analysis and antitrust implications. NewYork: Free Press; 1975.
+[18] Williamson O. The economic institutions of capitalism. NewYork: Free Press; 1985.
+[19] Malone TW,Yates J, Benjamin RI. Electronic markets and electronic hierarchies: effects of information technologies on market structure and
+[20] Clemons EK, Hann I-H, Hitt LM. The nature of competition in electronic markets: an empirical investigation of the electronic travel agent
+E.A. Walden, J.J. Hoffman / Computers & Operations Research 34 (2007) 3575–3591 3591
+[21] Clemons EK, Row MC. Information technology and industrial cooperation: the changing economics of coordination and ownership. Journal
+[22] Clemons EK, Weber BW. Adverse self-selection and the changing competitive balance between stock exchanges and off-exchange trading
+[23] AgrawalM,KishoreR,RaoHR.Acomparative analysis of e-commerce governancemechanisms.Thefifth INFORMSconference on information
+systems and technology. San Antonio, TX, 2000.
+[24] LeeHG, ClarkTH. Impacts of the electronicmarketplace on transaction cost andmarket structure. International Journal of Electronic Commerce
+[25] Liang TP, Huang JS. An empirical study on consumer acceptance of products in electronic markets: a transaction cost model. Decision Support
+[26] Subramani MR,Venkatraman N. Determinants of hybrid governance: an empirical test of the role of intangible asset specificity.Working paper,
+Systems Research Center, Boston University, Boston, MA, 1997.
+[27] West Jr LA. Electronic markets and electronic governments. International Journal of Electronic Commerce 1998;2(2):5–28.
+[28] Gurbuxani V, Whang S. The impact of information systems on organizations and markets. Communications of the ACM 1991;34(1):59–73.
+[29] Love JH, Stephen FH. Contractual failure, market failure and the make-or-buy decision. In: Third annual conference, international society for
+new institutional economics. Washington, DC, 1999.
+[30] Lyons BR. Specific investment economics of scale and themake-or-buy decision: a test of transaction cost theory. Journal of Economic Behavior
+[31] Coase RH. The nature of the firm: origin, meaning, influence. Journal of Law, Economics and Organization 1988;4(1):3–47.
+[32] Maskin E, QianY, Xu C. Incentives, information, and organizational form. Review of Economic Studies 2000;67(231):359–78.
+[34] Lacity MC, Hirschheim R. Beyond the information systems outsourcing bandwagon. NewYork: Wiley; 1995.
+[35] DavisGB,Collins RW,EiermanM,NanceWD.Conceptualmodel for research on knowledgework,Management Information SystemsResearch
+[36] Stein JC. Information production and capital allocation: decentralized vs. hierarchical firms. Working paper, National Bureau of Economic
+[37] Carpenter JN. Does option compensation increase managerial risk appetite?. Journal of Finance 2000;55(5):2311–31.
+[38] Bryan S, Hwang L, Lilien S. CEO stock-based compensation: an empirical analysis of incentive-intensity, relative mix, and economic
+[39] Clemons E. The build/buy battle. CIO 2001;14(5):80–4.
+[40] Eriksson T. Executive compensation and tournament theory: empirical tests on Danish data. Journal of Labor Economics 1999;17(2):262–80.
+[41] Gibbs M. Incentive compensation in a corporate hierarchy. Journal of Accounting and Economics 1995;19:247–77.
+[42] Tully S. The party’s over. Fortune 2000;142(1):156–60.
+[43] Bakos JY, Brynjolfsson E. From vendors to partners: information technology and incomplete contracts in buyer–supplier relationships. Journal
+[44] Venkatraman N, Zaheer A. Electronic integration and strategic advantage: a quasi-experimental study in the insurance industry. Information
+[45] Zaheer A, Venkatraman N. Determinants of electronic integration in the insurance industry: an empirical test. Management Science
+[46] Lee HG, Clark TH, Tam KT. Can EDI benefit adopters?. Information System Research 1999;10(2):186–95.
+[47] BakosY. A strategic analysis of electronic marketplaces. Management Information Systems Quarterly 1991;15(3):295–310.
+[48] Lacity MC, Willcocks LP. An empirical investigation of information technology sourcing practices: lessons from experience. MIS Quarterly
+[49] Lacity MC, Hirschheim R. Information systems outsourcing: myths, metaphors and realities. NewYork: Wiley; 1993.
+[50] Oltman J. 21st century outsourcing. Computerworld 1990;24(16):77–9.
+[51] Josefek R, Kauffman RJ. Dark pockets and decision support: the information technology value cycle in efficient markets. In: Schmid BF, Selz
+[52] Yoffie DB, Cusumano MA. Judo strategy: the competitive dynamics of Internet time. Harvard Business Review 1999;77(1):70–81.
+[53] Ackoff RL. Management misinformation systems. Management Science 1967;14(4):B147–56.
+[54] Rindfleisch A, Heide JB. Transaction cost analysis: past, present, and future applications. Journal of Marketing 1997;61(4):30–54.

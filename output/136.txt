@@ -1,0 +1,147 @@
+Syst. 20, 2011, pp. 125–138.
+[2] J.C. Anderson, D.W. Gerbing,
+and recommended two-step approach, Psych. Bull. 103, 1988, pp. 411–423.
+[3] J. Artunian, The seven deadly sins of outsourcing, Computerworld 40 (19), 2006,
+agency model, Info. Syst. Res. 2 (12), 2001, pp. 195–201.
+[6] J.E. Bailey, S.W. Pearson,
+computer user satisafaction, Manage. Sci. 29 (5), 1983, pp. 530–545.
+[7] J. Barthelemy, D. Adsit, The seven deadly sins of outsourcing,
+17 (2), 2003, pp. 87–100.
+[8] P. Bentler, EQS Structural Equations Program Manual, Multivariate Software Inc,
+Encino, CA, 1995.
+23 (2), 2006, pp. 267–294.
+[10] S. Chakrabarty, D. Whitten, K. Green,
+10, 1995, pp. 221–237.
+[12] C.W. Craighead, D.J. Ketchen, K.S. Dunn, G.T.M. Hult,
+and supply chain management, IEEE Trans. Eng. Manage. 58 (August (3)), 2011,
+pp. 578–588.
+[13] J.J. Cronin, S.A. Taylor,
+Mark. 58 (1), 1994, pp. 125–131.
+[14] F.D. Davis, Perceived usefulness, perceived ease of use,
+information technology, MIS Quart. 13, 1989, pp. 318–340.
+[15] W.H. DeLone, E.R. McLean,
+success, J. Manage. Info. Syst. 19 (4), 2003, pp. 9–30.
+N. Gorla, T.M. Somers / Information & Management 51 (2014) 320–335334[17] J. Dibbern, T. Goles, R. Hirschheim, B. Jayatilaka,
+cing: a survey and analysis of the literature, Database Adv. Info. Syst. 35 (4), 2004,
+pp. 6–102.
+[18] M.J. Doll, G. Torkzadeh, The measurement of end user satisfaction, MIS Quart. 12,
+evidence from the auto industry, Strategic Manage. J. 17, 1996, pp. 271–291.
+[20] J.H. Dyer, H. Singh,
+interorganizational competitive advantage, Acad. Manage. Rev. 23 (4), 1998,
+pp. 660–679.
+[21] K.M. Eisenhardt, Agency theory: an assessment and review,
+(1), 1989, pp. 57–74.
+[22] J. Floropoulos, C. Spathis, D. Halvatzis, M. Tsipouridou,
+variables and measurement error, J. Market. Res. 18, 1981, pp. 39–50.
+[24] G.G. Gable, D. Sedera, T. Chan, Enterprise systems success: a measurement model,
+Database Adv. Info. Syst. 29 (2), 1998, pp. 35–49.
+[26] D. Gefen, S. Wyss, Y. Lichtenstein,
+(4), 2005, pp. 47–67.
+[28] R. Gonzalez, J. Gasco, J. Llopes,
+analysis, Info. Manage. 43, 2006, pp. 821–834.
+[29] R. Gonzalez, J. Gasco, J. Llopis,
+a new assessment, Ind. Manage. Data Syst. 110 (2), 2010, pp. 284–303.
+[30] A. Gopal, B.R. Koka,
+offshore software development outsourcing, Decis. Sci. 41 (1), 2010, pp. 491–510.
+[31] N. Gorla, An assessment of information systems service quality using SERVQUAL+,
+Database Adv. Info. Syst. 42 (3), 2011, pp. 46–70.
+[32] N. Gorla, M.B. Lau,
+Comput. Info. Syst. 50 (3), 2010, pp. 91–101.
+[33] N. Gorla, T.M. Somers, B. Wong, Organizational impact of system quality,
+mation quality, and service quality, J. Strategic Info. Syst. 19, 2010, pp. 207–228.
+[34] V. Grover, M.J. Cheon, J.T.C. Teng,
+Prentice Hall, Upper Saddle River, NJ, 1998.
+Edition, Prentice Hall, Englewood Cliffs, NJ, 2012.
+Market. 20 (4), 2006, pp. 219–232.
+[38] H.H. Harman, Modern Factor Analysis, 3rd ed., University of Chicago Press,
+Chicago, 1976.
+technology procurement, Int. J. Info. Manage. 19, 1999, pp. 141–155.
+[40] J.L. Heskett, T.O. Jones, G.W. Loveman, W.E. Sasser, L.A. Schlesinger,
+service profit chain to work, Harvard Bus. Rev. 72 (2), 1994, pp. 164–175.
+[41] R. Hirschheim, A. Heinzl, J. Dibbern,
+outsourcing, Information Systems Outsourcing, Springer, Berlin Heidelberg, 2009,
+pp. 3–21.
+[42] B. Ives, M. Olson, J. Baroudi, The measurement of user information satisfaction,
+Commun. ACM 26 (10), 1983, pp. 785–793.
+[43] J.J. Jiang, G. Klein, C. Carr,
+from the other side, MIS Quart. 26 (2), 2002, pp. 145–166.
+[44] J.J. Jiang, G. Klein, S.M. Crampton,
+information services function, Decis. Sci. 25 (5/6), 1994, pp. 737–766.
+[47] W.J. Kettinger, C.C. Lee,
+tion system service quality, MIS Quart. 21 (2), 1997, pp. 223–240.
+[48] W.J. Kettinger, C.C. Lee,
+the case of IS SERVQUAL, Decision Sciences 30 (3), 1999, pp. 893–899.
+[49] W.J. Kettinger, C.C. Lee,
+information systems service quality, MIS Quart. 29 (4), 2005, pp. 607–623.
+[50] W.J. Kettinger, S.-H. Park, J. Smith,
+Manage. 37, 2000, pp. 323–334.
+[52] W.R. King, Outsourcing becomes more complex,
+Info. Manage. Comput. Secur. 15 (5), 2007, pp. 350–361.
+[54] C. Koh, S. Ang, G. Yeo,
+1 (1), 2008, pp. 13–34.
+[58] S.Y.T. Lee, H.W. Kim, S. Gupta, Measuring open source software success,
+J. Manage. Sci. 37 (2), 2009, pp. 426–438.
+[59] N. Levina, J.W. Ross,
+[60] D. Levinthal, A survey of agency models of organizations, J. Econ. Behav. Organ. 9,
+1988, pp. 153–185.
+[61] Y. Lichtenstein, Puzzles in software development contracting,
+(2), 2004, pp. 61–65.
+[62] J. Livari,
+success, Database Adv. Info. Syst. 36 (2), 2005, pp. 8–27.
+[63] K. Mardia, Measures of multivariate skewness and kurtosis with applications,
+Biometrika 57, 1970, pp. 519–530.
+[64] P. McDougall, Outsourcing contracts are hot, savings not,
+tion: an expectation and disconfirmation approach, Info. Syst. Res. 13 (3), 2002,
+pp. 296–315.
+[66] R. Mclvor,
+inform outsourcing evaluation, J. Oper. Manage. 27, 2009, pp. 45–63.
+[67] M.G. Morris, V. Venkatesh,
+(1), 2010, pp. 143–161.
+[68] K. Nam, S. Rajagopalan, H.R. Rao, A. Chaudhury,
+information systems outsourcing, Commun. ACM 39 (7), 1996, pp. 36–44.
+[69] R. Oliver, Measurement and evaluation of satisfaction process in retail settings,
+Retailing 57, 1991, pp. 25–48.
+[70] J.C. Olson, P.A. Dover,
+trial, J. Appl. Psychol. 64 (2), 1979, pp. 179–189.
+[71] W.J. Orlikowski,
+(5), 2006, pp. 345–354.
+[73] A. Parasuraman, V.A. Zeithaml, Berry, LL,
+J. Retailing 70 (3), 1994, pp. 201–230.
+[75] S. Percin,
+cing (BPO), Info. Manage. Comput. Secur. 16 (3), 2008, pp. 213–234.
+[76] S. Petter, W. DeLone, E.R. McLean,
+46, 2009, pp. 159–166.
+[78] L.F. Pitt, R.T. Watson, Kavan, CB,
+effectiveness, MIS Quart. 19 (2), 1995, pp. 173–187.
+[79] K.J. Preacher, A.F. Hayes,
+Method. 40 (3), 2008, pp. 879–891.
+[80] A. Rai, S.S. Lang, R.B. Welker,
+empirical test and theoretical analysis, Info. Syst. Res. 13 (1), 2002, pp. 50–69.
+[81] R. Sabherwal, A. Jeyaraj, C. Chowa,
+organizational determinants, Manage. Sci. 52 (12), 2006, pp. 1849–1864.
+[82] P.B. Seddon,
+34, 2003, p. 1.
+[85] A. Soteriou, S.A. Zenios, Operations, quality,
+banking services, Manage. Sci. 45 (9), 1999, pp. 1221–1238.
+[86] D.F. Spake, G. D’Souza, T.N. Crutchfield, R.M. Morgan,
+pensation: an agency theory explanation, J. Advert. 28 (3), 1999, pp. 53–72.
+[87] A. Susarla, A. Barua, A.B. Whinston,
+services, MIS Quart. 27 (1), 2003, pp. 91–123.
+[88] H.-H. Tsai, I.-Y. Lu,
+integral, Info. Sci. 176 (6), 2006, pp. 640–663.
+[89] T.P. Van Dyke, L.A. Kappelman, V.R. Prybutok,
+21 (2), 1997, pp. 195–208.
+[90] Y.S. Wang,
+or switch vendors, Decis. Sci. 37 (4), 2006, pp. 605–621.
+[94] O.E. Williamson, The economics of organization: the transaction cost approach,
+Am. J. Sociol. 87, 1981, pp. 548–577.
+[95] J.-H. Wu, Y.-M. Wang,
+and McLean’s model, Info. Manage. 43, 2006, pp. 728–739.
+[96] V.A. Zeithaml, L.L. Berry, A. Parasuraman,
+tomer expectations of service, J. Acad. Market. Sci. 21 (1), 1993, pp. 1–12.
+[97] V.A. Zeithaml, L.L. Berry, A. Parasuraman,
+quality, J. Market. 60 (2), 1996, pp. 31–46.
+[98] T. Zhou, Y.B. Lu, B. Wang,
+Manage. 26 (4), 2009, pp. 327–337.
+N. Gorla,
+ T.M. Somers / Information & Management 51 (2014) 320–335 335

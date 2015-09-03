@@ -2,7 +2,7 @@
 build*
 nbproject
 manifest*
-*.txt
+defaultSW.txt
 *.zip
 *.rar
 dist
