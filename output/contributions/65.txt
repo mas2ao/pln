@@ -1,0 +1,1 @@
+ The governance structure MC resolves the first hold up problem but the second hold up problem remains unresolved;; The countervailing power feature of an MC resolves this problem;;

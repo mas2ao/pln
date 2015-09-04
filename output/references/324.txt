@@ -1,0 +1,101 @@
+underlying financial restructuring. While the pre/post-merger period studied
+may be too short to observe changes in long-term financial performance,;;et al (7) found substantial operational changes (e.g. consolidation, conversion
+to other uses, closure) over a similar post-merger period,;;statistical techniques and no statistical tests were performed.
+Woolley (57,;;compared to non-merging hospitals. Merger announcements increased market
+values of for-profit hospitals and chains over their competitors (1.4%),;;either oligopoly pricing or signaling of opportunities to increase efficiency.
+Vita & Schumann (52) point out that these effects are weak,;;as a result of merger. Two of the studies used t-tests to test hypotheses of
+pre/post-merger hospital characteristics on small samples,;;hospitals. Few differences were observed after stratifying mergers by size and
+ownership,;; but later mergers had larger effects. Mergers had moderate effects on
+the rate of change of operational characteristics,;;occurring between 1983–1988. Approximately 42% of acquired hospitals con-
+tinued to provide acute care services,;;likely motivation for merger. Another 41% converted general acute care facili-
+ties to other inpatient uses (e.g. psychiatric and substance abuse, rehabilitation,;;inpatient uses.
+These results are strikingly different than those of Alexander et al (1),;;mergers.
+In summary,;;hospitals. Our understanding of hospital vertical integration to date is largely
+drawn from case studies and descriptive surveys,;;determinants of hospital integration into subacute care. Despite heightened in-
+terest in vertically (and virtually) integrated delivery systems,;;for innovation in methods of managing care. The deintegration of vertically
+integrated hospital-centered health care systems may be evidence that,;;virtually (contractually) integrated competitors.
+CAUSES The causes of vertical integration,;;care. Instead, these decisions were primarily an artifact of the governmental
+uniform pricing system for skilled nursing care,;;the determinants of diversification. Efficiency rationales for diversification
+include economies of scope (production, marketing and distribution),;;risk and returns through portfolio diversification. Other rationales are related
+to managerialism,;;allocating hospital costs and outputs to particular products or lines of business.
+CAUSES The causes of hospital diversification,;;atively high degree of medical/surgical training (e.g. outpatient respiratory ther-
+apy, radiology, neurological diagnostics),;;mary care group practice). Physicians generally oppose hospital diversification
+efforts that compete with existing physician practices,;;review intensity. For system hospitals, more diversified services were provided
+for hospitals that had high inpatient volume,;;more variation in return on assets. Diversification did not increase short-term
+profits,;;as the unit of analysis. Regression models were used to estimate effects on
+operating margins and return on assets,;;tions/Integrated Delivery Systems and Tyler & Co. found that 57% of PHOs
+were less than two years old,;; and 12% were less than six months old (4). Long-
+standing sources of secondary data on hospitals for research,;;relationships, but not the degree of participation (e.g. percentage of affected
+physicians, contracts,;;ganization strategies in 1993 (n D 1357). Market characteristics were only
+associated with physician participation in hospital budgeting,;;participation in management. Of hospitals adopting physician-hospital orga-
+nization strategies since 1991,;;margins and positively related to prior average Medicare costs per discharge.
+This study did not control for state regulatory differences,;;organizations. Ernst & Young’s 1994 survey (18) found that the hospital’s ob-
+jective in most PHOs is to improve relationships with physicians,;;for negotiating managed care contracts with health plans. In a recent sur-
+vey of 17 hospitals,;;1495), supplemented with data from the American Hospital Association. The
+survey used a stratified random design,;;owned, other community). Only 23.3% of hospitals participated in at least
+one form of physician organizational arrangement. Of these hospitals,;; 64.4%
+had a physician-hospital organization (PHO),;; 32.6% a management services
+organization (MSO), 15.5% a foundation,;;arrangements (e.g. physician-hospital organization, management services or-
+ganization),;;tion on hospital costs in 1982 (n D 1521). The sample included all hospitals
+in rate-setting states,;;profit hospitals were oversampled. Hospital-physician integration was defined
+as physician participation in hospital administration, hospital-based physicians,;;physician organizations were studied.
+Hospital costs per discharge were higher for hospitals that were large,;;salary, and casemix. By most measures, hospital-physician integration was not
+associated with lower hospital costs per discharge,;;hospitals from 1981–1990 (approximately 300 per year). Physician integration
+was defined as physician involvement in governance, physician ownership,;;occupancy rates. Financial integration was associated with lower operating
+margins,;;interpretation of the coefficients difficult. No specific theory was used to justify
+the specification of the model,;;included. The direction of causality between financial performance and adop-
+tion is also unclear,;;mission and higher net revenue. The measure of physician-system integration
+relates to the degree of physician involvement in the system and its governance,;;tal systems had higher costs than independent hospitals. Shortell (48) also
+reviewed studies of systems through the early 1980s,;;pitals. The more recent studies in this review detected lower marginal and
+average costs per stay in system than independent hospitals,;;cal techniques. Recent hospital mergers had moderate, rather than dramatic,
+effects on the rate of change in operating costs, staffing,;; and scale. Mergers
+rarely resulted in hospital closure,;;negotiation of managed care contracts. While hospitals continue to acquire
+substantial numbers of physician practices each year,;;practices that produce few inpatient services. Physician-hospital organizations
+are often formed in response to activities of specific hospital competitors,;;nancial integration (e.g. stock ownership) are associated with lower hospital
+financial performance,;;integration.
+Despite a substantial body of literature on hospital organization,;;pirical study. There is a compelling need for more systematic research into the
+causes of hospital organizational diversification and, ultimately,;;as data become available. The bridge between policy analysis demands and
+economic theory is still missing in the health services research literature,;;though this problem extends beyond the study of hospitals. This is ironic in
+light of the intense interest in hospital vertical integration,;;tivities, characterized by its incentive structures and administrative controls.
+Generic forms of governance are often described in terms of markets, hybrids,;;and hierarchies. The most efficient governance structure for a transaction is
+one that minimizes production and transaction costs,;;ternative structures, in a specific environment.
+INPUT The factors of production (labor, capital, supplies,;;managerial expertise.
+INTERMEDIATE PRODUCT In a production process with several stages,;;misspecified if it does not represent the “true” behavioral relationship. Mis-
+specification can arise for many reasons, including measurement error,;;variables, endogeneity, and self-selection (26). Depending on the type of spec-
+ification error, the econometric model may have biased parameter estimates,;;is usually derived from an underlying theory. In economics the behavior of
+an organization is often portrayed as cost-minimizing, profit-maximizing,;;lection process is not part of the model. The model incorrectly attributes the
+effects of the selection process to the explanatory variables,;;parameter estimates.
+TRANSACTION COSTS The comparative costs of planning, adapting,;;itoring task completion under alternative governance structures. Transaction
+costs include not only the costs of negotiating agreements,;;Health Serv. Admin. 35(1):83–102
+3. Alexander JA,;;tors bring losses. Wall St. J. June 17:B4
+7. Bogue RJ, Shortell SM, Sohn MW, Man-
+heim LM, Bazzoli GJ,;;Med. Care 33(7):676–86
+8. Burns LR,;;The Dynamics of Industrial Capitalism.
+Cambridge,;;min. 33(1):99–110
+12. Clement JP, D’Aunno T,;;Serv. Res. 27(6):741–63
+13. Conrad DA, Mick SS, Watts Madden C,;;Med. Care Rev. 45(1):49–100
+14. Cowing TG,;;Res. 22(1):68–89
+22. Gertler PJ,;;industry. J. Polit. Econ. 100(6):1232–56
+23. Goes JB,;;Health Serv. Res. 30(4):507–30
+24. Grannemann TW, Brown RS,;;analysis. Rev. Econ. Stat. 78(3):470–81
+26. Kennedy P. 1992. A Guide to Economet-
+rics. Cambridge,;;Serv. Res. 32(2):177–96
+31. Milgrom P,;;aries and structure of the firm. In Eco-
+nomics, Organization,;;tems. In Adv. Health Econ. Health Serv.
+Res., ed. RM Scheffler, LF Rossiter,;;Aff. 15(4):62–73
+35. Mullner RM,;;Health Econ. Health Serv. Res., ed. RM
+Scheffler, LF Rossiter,;;tal. RAND/UCLA/Harvard Cent. Health
+Care Finan. Policy Res., Santa Monica,;;sion. 1995. Annual Report to Congress.
+Washington,;;cialty Care. Rep. Physician Paym. Rev.
+Comm., Washington,;;tional Survey of Physicians. Washing-
+ton,;;Extramur. rep. E-96–02 Prospect. Paym.
+Assess. Comm., Washington,;;the firm. Med. Care Res. Rev. 54(1):3–24
+47. Robinson JC,;;Rev. 45(2):177–214
+49. Shortell SM, Gillies RR,;;Health Aff. 13(5):46–64
+50. Shortell SM, Morrison EM,;;34(4):471–92
+51. Shortell SM, Morrison EM, Hughes SL,
+Friedman BS,;;of ownership, environment, and strategy.
+In Adv. Health Econ. Health Serv. Res.,;;ed. RM Scheffler, LF Rossiter, 7:3–40
+52. Vita MG,;;tio analysis of merged hospitals. In Adv.
+Health Econ. Health Serv. Res.,;; ed. RM
+Scheffler, LF Rossiter,;;

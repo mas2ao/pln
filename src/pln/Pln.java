@@ -36,7 +36,7 @@ public class Pln {
      */
     public static HashMap<String, Integer> allSW = new HashMap<>();
 
-    static String pdftoText(String fileName) {
+static String pdftoText(String fileName) {
         PDFParser parser;
         String parsedText = null;;
         PDFTextStripper pdfStripper = null;
@@ -199,7 +199,7 @@ public class Pln {
     public static ArrayList<String> findAuthors(String txt) {
         String namePattern = "([A-Z][a-z]+)((\\s*)(([A-Z](\\.|[a-z]*))|(de|o)\\s[A-Z](\\.|[a-z]*)))+";
         String pattern = "\\A" + namePattern
-                + "((\\sand|,)\\s" + namePattern + ")*\\z";
+                + "((\\s*)(and|,)(\\s*)" + namePattern + ")*(\\s*)\\z";
 
         String pdf[] = txt.split("\n");
 
@@ -207,7 +207,7 @@ public class Pln {
 
         Pattern p = Pattern.compile(pattern);
         for (String s : pdf) {
-            s = s.replaceAll("[^A-Za-z0-9\\.]", " ").replaceAll("\\s+", " ");
+            s = s.replaceAll("[^A-Za-z0-9\\.,]", " ").replaceAll("\\s+", " ");
 //            System.out.println(s);
             Matcher match = p.matcher(s);
             while (match.find() && match.end() - match.start() > 8) {
@@ -341,15 +341,16 @@ public class Pln {
         String patternTwo = "(.*)\\([0-9]*\\),(\\s*)“(.*)\\n(.*)”,(.*)\\.";
         String patternThree = "(.*),(\\s*)[0-9]*,(\\s*)(.*),(.*)";
         String patternFour = "(.*),(\\s*)[0-9]*,(\\s*)(.*)\\n(.*),";
-        String patternFive = "(.*)\\[[0-9]*\\](\\s*)[A-Z][a-z]+(.*)";
+        String patternFive = "(.*)\\[[0-9]*\\](\\s*)([A-Z][a-z]+|[A-Z]\\.)(.*)";
         String patternSix = "(.*),(\\s*)[0-9]*(\\s*)\\.(.*)";
         String patternSeven = "(.*)(\\s*)\\([0-9]{4}\\)(\\s*)(.*)";
+        String patternEight = "(.*).(\\s*)[0-9]*(\\s*)\\.(.*)\\n(.*),";
 
         ArrayList<String> r = new ArrayList<>();
 
         String pattern = "(" + patternOne + "|" + patternTwo + "|"
                 + patternThree + "|" + patternFour + "|" + patternFive + "|"
-                + patternSix + "|" + patternSeven + ")";
+                + patternSix + "|" + patternSeven + "|" + patternEight + ")";
 
         Pattern p = Pattern.compile(pattern);
 //        System.out.println(pdf);
@@ -400,29 +401,29 @@ public class Pln {
 
             ArrayList<String> st = getStatements(pdfLine);
 
-//            art.setAuthor(findAuthors(text));
-//            art.setAdress(findAddress(st));
-//            art.setObjective(findObjective(st));
-//            art.setProblem(findProblem(st));
-//            art.setMethod(findMethod(st));
-//            art.setContributions(findContribution(st));
+            art.setAuthor(findAuthors(text));
+            art.setAdress(findAddress(st));
+            art.setObjective(findObjective(st));
+            art.setProblem(findProblem(st));
+            art.setMethod(findMethod(st));
+            art.setContributions(findContribution(st));
             art.setReferences(extractReferences(art.getRefe()));
             artigos.put(children[i], art);
         }
 //        System.out.println("stop word");
-//        for (String k: artigos.keySet()){
-//            System.out.println("Count words of file "+k);            
-//            Article art = artigos.get(k);
-//            art.setAllWords(countWord(art.getOriginalText()));
-//            art.setNumWord(art.getAllWords().size());
-//            art.setOriginalText(removeSW(defaultSW, art.getOriginalText()));
-//            art.setNonSW(countWord(art.getOriginalText()));
-//            art.setNonSW(removeSmall(art.getNonSW()));
-//            art.setSortedWords(ordWord(art.getNonSW()));
-//            art.setTop10(top10(art.getSortedWords()));
-//        }
+        for (String k: artigos.keySet()){
+            System.out.println("Count words of file "+k);            
+            Article art = artigos.get(k);
+            art.setAllWords(countWord(art.getOriginalText()));
+            art.setNumWord(art.getAllWords().size());
+            art.setOriginalText(removeSW(defaultSW, art.getOriginalText()));
+            art.setNonSW(countWord(art.getOriginalText()));
+            art.setNonSW(removeSmall(art.getNonSW()));
+            art.setSortedWords(ordWord(art.getNonSW()));
+            art.setTop10(top10(art.getSortedWords()));
+        }
 //        
-        Article a = artigos.get("90.pdf");
+//        Article a = artigos.get("90.pdf");
 //        for (Palavra p:a.getSortedWords()){
 //            System.out.println(p.getPalavra()+" "+p.getQuant());
 //        }
@@ -443,9 +444,129 @@ public class Pln {
         for (String key : artigos.keySet()) {
             PrintWriter writer = null;
             try {
-                writer = new PrintWriter("output/"+ key, "UTF-8");
+                writer = new PrintWriter("output/references/"+ key.replace("pdf", "txt"), "UTF-8");
                 for (String ref : artigos.get(key).getReferences()) {
-                    writer.println(ref);
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/authors/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getAuthor()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/adress/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getAdress()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/contributions/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getContributions()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/methods/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getMethod()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/objectives/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getObjective()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/problems/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (String ref : artigos.get(key).getProblem()) {
+                    writer.print(ref);
+                    writer.print(";;");
+                }
+                writer.close();
+            } catch (FileNotFoundException ex) {
+                ex.printStackTrace();
+            } catch (UnsupportedEncodingException ex) {
+                ex.printStackTrace();
+            } finally {
+                writer.close();
+            }
+        }
+        for (String key : artigos.keySet()) {
+            PrintWriter writer = null;
+            try {
+                writer = new PrintWriter("output/top10/"+ key.replace("pdf", "txt"), "UTF-8");
+                for (Palavra ref : artigos.get(key).getTop10()) {
+                    writer.print(ref.getPalavra()+" "+ref.getQuant());
+                    writer.print(";;");
                 }
                 writer.close();
             } catch (FileNotFoundException ex) {

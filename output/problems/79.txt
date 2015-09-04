@@ -1,0 +1,1 @@
+ It is then obvious that infor mation asymmetry is more problematic when dealing with credence attributes;; No problem of multicollinearity has been detected;;

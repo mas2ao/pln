@@ -1,0 +1,130 @@
+Alchian, A. A., & Demsetz, H. (1972). Production, information costs,;;and economic organization. The American Economic Review, 62
+(5),;; 777–795.
+Alvarez-Suescun,;; E. (2007). Testing resource-based propositions;;about IS sourcing decisions. Industrial Management + Data
+Systems, 107(6),;; 762–779.
+Amit, R., & Schoemaker,;; P. J. H. (1993). Strategic assets and;;organizational rent. Strategic Management Journal, 14, 33–46.
+Ang, S., & Cummings,;; L. L. (1997). Strategic response to institutional;;influences on information systems outsourcing. Organization
+Science, 8(3),;; 235–256.
+Ang, S., & Straub,;; D. W. (1998). Production and transaction;;economies and IS outsourcing: A study of the U.S. banking
+industry. MIS Quarterly, 22(4),;; 535–552.
+Ang, S., & Straub, D. W. (2006). Costs,;;of IS outsourcing. In R. Hirschheim, A. Heinzl, & J. Dibbern
+(Eds.), Information systems outsourcing. Enduring themes,;;perspectives and global challenges (pp. 27–56). Springer: Berlin.
+Argyres,;; N. (1996). Evidence on the role of firm capabilities in;;vertical integration decisions. Strategic Management Journal, 17,
+129–150.
+Argyres, N., & Mayer,;; K. J. (2007). Contract design as a firm;;perspectives. Academy of Management Review, 32(4), 1060–
+1077.
+Armstrong, J. S., & Overton,;; T. S. (1977). Estimating nonresponse;;bias in mail surveys. Journal of Marketing Research, 14(3), 396–
+402.
+Armstrong, C. E., & Shimizu,;; K. (2007). A review of approaches to;;empirical research on the resource-based view of the firm.
+Journal of Management, 33(6),;; 959–986.
+Aubert, B. A., Rivard, S., & Patry,;;approach to outsourcing behavior: Some empirical evidence.
+Information & Management, 30(2),;; 51–64.
+Aubert, B. A., Rivard, S., & Patry,;;measures to assess dimensions of IS operation transactions.
+Omega, 24(6),;; 661–680.
+Aubert, B. A., Rivard, S., & Patry,;; M. (2004). A transaction cost;;921–932.
+Aydin, M. N., & Bakker,;; M. E. (2008). Analyzing IT maintenance;;outsourcing decision from a knowledge management perspective.
+Information Systems Frontiers, 10(3),;; 293–305.
+Barney,;; J. B. (1991). Firm resources and sustained competitive;;advantage. Journal of Management, 17(1), 99–120.
+Bhatt, G. D., & Grover,;; V. (2005). Types of information technology;;CedarCrestone (2007). CedarCrestone 2007–2008 HR systems survey:;;CedarCrestone (2008). The value of HR technologies: Metrics and;;stories report. CedarCrestone.
+Coase, R. H. (1937). The nature of the firm. Economica, 4(16),;; 386–
+405.
+Cohen, W. M., & Levinthal,;; D. A. (1990). Absorptive capacity: A new;;perspective on learning and innovation. Administrative Science
+Quarterly, 35(1),;; 128–152.
+Collis,;; D. J. (1994). Research note: How valuable are organizational;;issue), 143–152.
+Conner, K. R., & Prahalad,;; C. K. (1996). A resource-based theory of;;the firm: Knowledge vs. opportunism. Organization Science, 7
+(5),;; 477–501.
+Cramer, J. S., & Ridder,;; G. (1991). Pooling states in the multinomial;;model. Journal of Econometrics, 47(2–3), 267–272.
+De Looff,;; L. A. (1995). Information systems outsourcing decision;;making: A framework, organizational theories and case studies.
+Journal of Information Technology, 10(4),;; 281–297.
+Dibbern, J., & Heinzl,;; A. (2006). Selective outsourcing of information;;systems in small andmedium sized enterprises. In R. Hirschheim, A.
+Heinzl, & J. Dibbern (Eds.),;; Information systems outsourcing.
+Enduring themes,;;(pp. 57–82). Berlin: Springer.
+Dibbern, J., Goles, T., Hirschheim, R., & Jayatilaka,;; B. (2004).;;6–102.
+Dyer,;; J. H. (1996). Specialized supplier networks as a source of;;competitive advantage: Evidence from the auto industry. Strategic
+Management Journal, 17,;; 271–291.
+Dyer, J. H., & Singh,;; H. (1998). The relational view: Cooperative;;strategy and sources of interorganizational competitive advantage.
+Academy of Management Review, 23(4),;; 660–679.
+Eisenhardt,;; K. M. (1989). Agency theory: An assessment and review.;;Inf Syst Front (2010) 12:631–645 643;;Flynn, G. (1994). A new HRIS in Wake county streamlines HR. The;;Personnel Journal, 73(5), 137–141.
+Geyskens, I., Steenkamp, J.-B., & Kumar, N. (2006). Make, buy,;;ally: A transaction cost theory meta-analysis. Academy of
+Management Journal, 49(3),;; 519–543.
+Gonzalez, R., Gasco, J., & Llopis,;; J. (2006). Information systems;;outsourcing: A literature analysis. Information & Management,
+43(7),;; 821–834.
+Grant,;; R. M. (1991). The resource-based theory of competitive;;advantage: Implications for strategy formulation. California
+Management Review, 33(3),;; 114–135.
+Grant,;; R. M. (1996). Toward a knowledge-based theory of the firm.;;Strategic Management Journal, 17(12), 109–122.
+Greene,;; W. H. (2000). Econometric analysis. New Jersey: Prentice-;;Hall International.
+Grover, V., Cheon, M. J., & Teng,;; J. (1996). The effect of service;;systems functions. Journal of Management Information Systems,
+12(4),;; 86–116.
+Hirschheim, R., Heinzl, A., & Dibbern,;; J. (Eds.). (2006). Information;;global challenges. Berlin: Springer.
+Holmström, B., & Milgrom,;; P. (1994). The firm as an incentive;;system. The American Economic Review, 84(4), 972–991.
+Insinga, R. C., & Werle,;; M. J. (2000). Linking outsourcing to business;;strategy. Academy of Management Executive, 14(4), 58–70.
+Jensen, M. C., & Meckling,;; W. H. (1976). Theory of the firm:;;Managerial behavior, agency cost and ownership structure.
+Journal of Financial Economics, 3(4),;; 305–360.
+Kale, P., & Singh,;; H. (2007). Building firm capabilities through;;capability and firm-level alliance success. Strategic Management
+Journal, 28,;; 981–1000.
+Klein, B., Crawford, R. G., & Alchian,;; A. A. (1978). Vertical;;process. Journal of Law and Economics, 21(2), 297–326.
+Lacity, M. C., & Hirschheim,;; R. (1993). Information systems;;outsourcing: Myths, metaphors, and realities. New York: Wiley.
+Lacity, M. C., & Willcocks,;; L. P. (2009). Information systems and;;Palgrave.
+Lacity, M. C., Willcocks, L. P., & Feeny,;; D. F. (1996). The value of;;selective IT outsourcing. Sloan Management Review, 37(3), 13–
+25.
+Langlois,;; R. N. (1992). Transaction-cost economics in real time.;;Industrial and Corporate Change, 1(1), 99–127.
+Lee, J.-N. (2001). The impact of knowledge sharing,;;capability and partnership quality on IS outsourcing success.
+Information & Management, 38(5),;; 323–335.
+Leiblein, M. J., & Miller,;; D. J. (2003). An empirical examination of;;of the firm. Strategic Management Journal, 24, 839–859.
+Loh, L., & Venkatraman,;; N. (1992). Determinants of information;;technology outsourcing: A cross-sectional analysis. Journal of
+Management Information Systems, 9(1),;; 7–24.
+Lyons, B. R. (1995). Specific investment, economies of scale,;;make-or-buy decision: A test of transaction cost theory. Journal
+of Economic Behavior and Organization, 26(3),;; 431–443.
+Madhok,;; A. (2002). Reassessing the fundamentals and beyond:;;of the firm and the institutional structure of production. Strategic
+Management Journal, 23,;; 535–550.
+Mahoney,;; J. T. (1992). The choice of organizational form: Vertical;;financial ownership versus other methods of vertical integration.
+Strategic Management Journal, 13,;; 559–584.
+Mata, F. J., Fuerst, W. L., & Barney,;; J. B. (1995). Information;;based analysis. MIS Quarterly, 19(4), 487–505.
+Mayer, K. J., & Salomon, R. M. (2006). Capabilities,;;action cost perspectives. Academy of Management Journal, 49
+(5),;; 942–959.
+McGrath, R. G., Macmillan, I. C., & Venkataraman,;; S. (1995).;;paradigm. Strategic Management Journal, 16, 251–275.
+Milgrom, P., & Roberts,;; J. (1988). An economic approach to influence;;activities in organizations. American Journal of Sociology, 94
+(supplement),;; s154–s179.
+Nam, K., Rajagopalan, S., Raghav Rao, H., & Chaudhury,;; A. (1996).;;A two-level investigation of information systems outsourcing.
+Communications of the ACM, 39(7),;; 36–44.
+Nelson, P., Richmond, W., & Seidmann,;; A. (1996). Two dimensions;;of software acquisition. Communications of the ACM, 39(7), 29–
+35.
+Neumann, S., Ahituv, N., & Zviran,;; M. (1992). A measure for;;determining the strategic relevance of IS to the organization.
+Information & Management, 22(5),;; 281–299.
+Parsons,;; G. L. (1983). Information technology: A new competitive;;weapon. Sloan Management Review, 25(1), 3–14.
+Peteraf,;; M. A. (1993). The cornerstones of competitive advantage. A;;resource-based view. Strategic Management Review, 14, 179–
+191.
+Poppo, L., & Zenger,;; T. (1998). Testing alternative theories of the;;explanations for make-or-buy decisions in information services.
+Strategic Management Journal, 19,;; 853–877.
+Porter, M. E., & Millar,;; V. E. (1985). How information gives you;;competitive advantage. Harvard Business Review, 63(4), 149–
+160.
+Powell, T. C., & Dent-Micallef,;; A. (1997). Information technology as;;technology resources. Strategic Management Journal, 18, 375–
+405.
+Prahalad, C. K., & Hamel,;; G. (1990). The core competence of the;;corporation. Harvard Business Review, 68(3), 79–91.
+Priem, R. L., & Butler,;; J. E. (2001). Is the resource-based ‘view’ a;;of Management Review, 26(1), 22–40.
+Quinn, J. B., & Hilmer,;; F. G. (1994). Strategic outsourcing. Sloan;;Management Review, 35(4), 43–55.
+Robertson, T. S., & Gatignon,;; H. (1998). Technology development;;mode: A transaction cost conceptualization. Strategic Management
+Journal, 19,;; 515–531.
+Roy, V., & Aubert,;; B. A. (2002). A resource-based analysis of IT;;sourcing. DATA BASE for Advances in Information Systems, 33
+(2),;; 29–40.
+Saarinen, T., & Vepsäläinen,;; A. P. J. (1994). Procurement strategies;;for information systems. Journal of Management Information
+Systems, 11(2),;; 187–208.
+Sadri, J., & Chatterjee,;; V. (2003). Building organisational character;;through HRIS. International Journal of Human Resources
+Development and Management, 3(1),;; 84–98.
+Schelanski, H. A., & Klein,;; P. G. (1999). Empirical research in;;transaction cost economics: A review and assessment. Journal of
+Law, Economics, & Organization, 11(2),;; 335–361.
+Schmidt, R., Lyytinen, K., Keil, M., & Cule,;; P. (2001). Identifying;;software project risks: An international Delphi study. Journal of
+Management Information Systems, 17(4),;; 5–36.
+Steensma, H. K., & Fairbank,;; J. F. (1999). Internalizing external;;644 Inf Syst Front (2010) 12:631–645;;empirical assessment. The Journal of High Technology Management
+Research, 10(1),;; 1–35.
+Teng, J. T. C., Cheon, M. J., & Grover,;; V. (1995). Decision to;;theoretic discrepancy model. Decision Science, 26(1), 75–103.
+Weatherly,;; L. A. (2005). HR technology: Leveraging the shift to self-;;service-It’s time to go strategic. HR Magazine, 50(3), A1–A11.
+Wernerfelt,;; B. (1984). A resource-based view of the firm. Strategic;;Management Journal, 5, 171–181.
+Williamson,;; O. E. (1975). Markets and hierarchies: Analysis and;;antitrust implications. New York: Free Press.
+Williamson,;; O. E. (1985). The economic institutions of capitalism.;;New York: Free Press.
+Zajac, E. J., & Bazerman,;; M. H. (1991). Blind spots in industry and;;strategic decisions. Academy of Management Review, 16(1), 37–56.
+Zhang, M. J., & Lado,;; A. A. (2001). Information systems and;;competitive advantage: A competency-based view. Technovation,
+21(3),;; 147–156.
+Zollo, M., Reuer, J. J., & Singh,;; H. (2002). Interorganizational;;routines and performance in strategic alliances. Organization
+Science, 13(6),;;boundaries. He has written several articles on the main determinants
+of IS outsourcing decisions from several theoretical perspectives,;;Inf Syst Front (2010) 12:631–645 645;;

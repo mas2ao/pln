@@ -1,0 +1,1 @@
+supply 257;;risk 182;;disruption 163;;item 104;;overall 66;;probability 66;;supplier 66;;magnitude 54;;buyers 41;;model 41;;

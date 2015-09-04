@@ -1,0 +1,1 @@
+costs 88;;transaction 76;;tct 76;;supplier 58;;can 47;;management 42;;relationship 39;;asset 37;;supply 37;;chain 36;;

@@ -1,0 +1,1 @@
+rps 180;;state 149;;policy 145;;states 130;;renewable 115;;regulatory 101;;policies 91;;restructuring 87;;repeal 87;;electricity 85;;

@@ -1,0 +1,1 @@
+firm 78;;assets 61;;debt 58;;ratio 45;;value 30;;tax 29;;structure 28;;specific 27;;costs 26;;capital 25;;

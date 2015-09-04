@@ -1,0 +1,74 @@
+Athreye, S., Cantwell, J., 2007. Creating competition? Globalisation and the emer-;;gence of new technology producers. Research Policy 36 (2), 209–226.
+Bammer, G.,;; 2008. Enhancing research collaborations: three key management chal-
+lenges. Research Policy 37 (5),;; 875–887.
+Breschi, S., Lissoni, F.,;; 2001. Localized knowledge spillovers vs. innovative milieux:
+knowledge tacitness reconsidered. Papers in Regional Science 80 (3),;; 255–273.
+Brown, J.S., Duguid, P.,;; 1991. Organizational learning and communities of practices:
+towards a unified view of working,;; learning and innovation. Organization Sci-
+ence 2 (1),;; 40–57.
+Burt, R.S.,;; 1992. Structural Holes: The Social Structure of Competition. Harvard Uni-
+versity Press, Cambridge,;; MA.
+Cameron, A.C., Trivedi, P.K.,;; 1998. Regression Analysis of Count Data. Cambridge
+University Press,;; Cambridge.
+Cockburn, I.M., Henderson, R.M., 1998. Absorptive capacity, coauthoring behaviour,;;and the organization of research in drug discovery. Journal of Industrial Eco-
+nomics 46 (2),;; 157–182.
+Coleman, J.S.,;; 1988. Social capital in the creation of human capital. American Journal
+of Sociology 94 (Suppl.),;; S95–S120.
+Collins, H.M.,;; 1974. The TEA set: tacit knowledge and scientific networks. Science
+Studies 4 (2),;; 165–186.
+Cowan, R., David, P.A., Foray, D.,;; 2000. The explicit economics of knowledge codifi-
+cation and tacitness. Industrial and Corporate Change 9 (2),;; 211–253.
+Crane, D., 1972. Invisible Colleges. University of Chicago Press, Chicago,;; IL.
+Cummings, J.N., Kiesler, S.,;; 2007. Coordination costs and project outcomes in multi-
+university collaborations. Research Policy 36 (10),;; 1620–1634.
+De Dreu, C.K.W.,West, M.A.,;; 2001.Minority dissent and team innovation: the impor-
+tance of participation in decision making. Journal of Applied Psychology 86 (6),;;1191–1201.
+Duque, R.B., Ynalvez, M., Sooryamoorthy, R., Mbatia, P., Dzorgbo, D.B.S., Shrum, W.,;;2005. Collaboration paradox: scientific productivity, the Internet, and problems
+of research in developing areas. Social Studies of Science 35 (5),;; 755–785.
+Glanzel, W., Schubert, A.,;; 2001. Double effort =double impact? A critical view at
+international co-authorship in chemistry. Scientometrics 50 (2),;; 199–214.
+Gonzalez-Brambila, C., Veloso, F.M.,;; 2007. The determinants of research output and
+impact: a study of Mexican researchers. Research Policy 36 (7),;; 1035–1051.
+Granger, C.W.J.,;; 1969. Investigating causal relations by econometric models and
+cross-spectral methods. Econometrica 37 (3),;; 424–438.
+Griffith, B.C., Miller, A.J.,;; 1970. Networks of informal communications among
+scientifically productive scientists. In: Nelson, C.E., Pollock, D.K. (Eds.),;;MA.
+Hood, W.W.,;;Katz, J.S., 1994. Geographical proximity and scientific collaboration. Scientometrics;;31 (1), 31–43.
+Katz, J.S., Hicks, D.,;; 1997. How much is a collaboration worth? A calibrated biblio-
+metric model. Scientometrics 40 (3),;; 541–554.
+Katz, J.S., Martin, B.R., 1997. What is research collaboration? Research Policy 26 (1),;;1–18.
+Landry, R., Amara, N.,;; 1998. The impact of transaction costs on the institutional struc-
+turation of collaborative academic research. Research Policy 27 (9),;; 901–913.
+Levin, S., Stephan, P.,;; 1991. Research productivity over the life cycle: evidence for
+academic scientists. American Economic Review 81 (1),;; 114–132.
+Lindsey, D.,;; 1980. Production and citation measures in the sociology of science: the
+problem of multiple authorship. Social Studies of Sciences 10 (2),;; 145–162.
+Liu, N.C., Cheng, Y., Liu, L.,;; 2005. Academic ranking of world universities using
+scientometrics—a comment to the “Fatal Attraction”. Scientometrics 64 (1),;;101–109.
+Luukkonen, T., Tijssen, R.J.W., Persson, O., Sivertsen, G.,;; 1993. The measurement of
+international scientific collaboration. Scientometrics 28 (1),;; 15–26.
+McFadyen, M.A., Cannella, A.A.,;;ishing returns of the number and strength of exchange relationships. Academy
+of Management Journal 47 (5),;; 735–746.
+Melin, G., Persson, O.,;; 1996. Studying research collaboration using co-authorships.
+Scientometrics 36 (3),;; 363–377.
+Meyer, M.,;;technology. Research Policy 35 (10), 1646–1662.
+Narin, F., Stevens, K., Whitlow, E.S.,;; 1991. Scientific cooperation in Europe and the
+citation of multinationally authored papers. Scientometrics 21 (3),;; 313–323.
+Noyons, E.C.M., Moed, H.F., Luwel, M.,;;ysis for evaluative bibliometric purposes: a bibliometric study. Journal of the
+American Society for Information Science 50 (2),;; 115–131.
+Price, D.J.D., Beaver, D.D.,;; 1966. Collaboration in an invisible college. American Psy-
+chologist 21 (11),;; 1011–1918.
+Rigby, J., Edler, J.,;;the effect of the intensity of collaboration on the variability of research quality.
+Research Policy 34 (6),;; 784–794.
+Schumpeter, J.A.,;; 1934. The Theory of Economic Development. Harvard University
+Press, Cambridge,;; MA.
+Schmoch, U., Schubert, T.,;; 2008. Are international co-publications an indicator for
+quality of scientific research? Scientometrics 74 (3),;; 361–377.
+Singh, J., 2007. External Collaboration,;;Evidence from Scientific Publications. INSEAD, Mimeo.
+von Hippel, E.,;; 1994. “Sticky information” and the locus of problem solving: impli-
+cations for innovation. Management Science 40 (4),;; 429–439.
+C.S.,;;S., Jon
+of knoilson, C.S.,;; 2003. Informetric studies using databases: opportunities
+nges. Scientometrics 58 (3),;;A1/2006.
+Wagner,;;tionLeydesdorff, L., 2005. Network structure, self-organization, and the;;international collaboration in science. Research Policy 34 (10),
+.;;es, B.F., Uzzi, B., 2007. The increasing dominance of teams in produc-;;wledge. Science 316 (5827), 1036–1039.;;

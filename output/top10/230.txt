@@ -1,0 +1,1 @@
+pepper 185;;farmers 118;;price 91;;processor 85;;income 83;;group 82;;contracts 72;;season 70;;supply 62;;costs 61;;

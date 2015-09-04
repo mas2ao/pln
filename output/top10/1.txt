@@ -1,0 +1,1 @@
+pork 100;;quality 79;;contracts 77;;packers 45;;marketing 42;;hogs 38;;producers 38;;carcass 38;;pse 35;;packer 33;;

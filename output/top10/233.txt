@@ -1,0 +1,1 @@
+rights 128;;client 90;;control 89;;property 70;;projects 67;;costs 59;;project 52;;supplier 51;;may 50;;cost 45;;

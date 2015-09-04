@@ -1,0 +1,1 @@
+firms 65;;projects 40;;research 40;;smes 39;;innovation 35;;success 34;;firm 31;;technical 31;;employees 22;;knowledge 22;;

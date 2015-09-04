@@ -1,0 +1,1 @@
+supply 150;;period 147;;risk 119;;manufacturer 116;;relationship 115;;chain 112;;cost 78;;time 69;;risks 68;;relationships 65;;

@@ -1,0 +1,70 @@
+Aillery, M., Gollehon, N., Breneman, V., Bucholtz, S., 2009. Modeling firm spatial;;manure management. Nat. Resour. Model. 22, 42–66.
+Araji, A.A., Abdo, Z.O., Joyce, P.,;; 2001. Efficient use of animal manure on cropland -
+economic analysis. Bioresour. Technol. 79,;; 179–191.
+Asai, M.,;; 2013. Understanding collaborative partnerships between farmers: The
+case of manure partnerships. Department of Plant and Environmental Sciences,;;University of Copenhagen, Copenhagen, Denmark, p. 119.
+Asai, M., Langer, V., Frederiksen, P.,;;management networks in Denmark. The Vth World Congress of Agronomist and
+Agrologist, Quebec,;; Canada.
+Asai, M., Langer, V., Frederiksen, P.,;;in Denmark Planet Under Pressure 2012. London.
+Asai, M., Langer, V., Frederiksen, P.,;;partnerships, Livest. Sci.
+Barnes, A.P., Willock, J., Hall, C., Toma, L.,;;regarding water pollution control programmes in Scotland. Agric. Water
+Manage. 96,;; 1715–1722.
+Bartelt, K.D., Bland, W.L.,;;a function of herd size and landscape fragmentation. J. Soil Water Conservation
+62,;; 345–352.
+Battel, R.D.,;;differences based on age and farm size. J. Extension 44.
+Breetz, H.L., Fisher-Vanden, K., Jacobs, H., Schary, C.,;;quality trading. Land Econom. 81, 170–190.
+Commission of the European Communities,;;paragraph 2 (b) of Annex III to and Article 9 of Council Directive 91/676/EEC.
+Official J. Eur. Commun. 319,;; 0024–0027.
+Dagnall, S., Hill, J., Pegg, D.,;;manures–assessing the opportunities for biomass-to-energy schemes.
+Bioresour. Technol. 71,;; 225–234.
+Danish Statistics,;;for Agriculture 2012]. Danmarks Statistik.
+DEFRA,;; 2009. Guidance for Farmers in Nitrate Vulnerable Zones – The livestock
+manure N farm limit. Department for Environment, Food and Rural Affairs,;;London.
+Dilman, D., 2000. Mail and Internet Surveys: The Tailored Design Method,;;edition. John Wiley and Sons, New York.
+Entz, M.H., Bellotti, W.D., Powell, J.M., Angadi, S.V., Chen, W., Ominski, K.H., Boelt, B.,;;2005. Evolution of integrated crop-livestock production systems. Wageningen
+Academic Publishers,;; Wageningen.
+Flaten, O., Lien, G., Koesling, M., Valle, P.S., Ebbesvik, M.,;;empirical results from Norway. Livestock Prod. Sci. 95, 11–25.
+Gittell, J.H., 2011. Relational coordination: Guidelines for theory,;;analysis. Relational Coordination Research Collaborative, Boston, MA.
+Hair, J.F.J., Black, W.C., Babin, B.J., Anderson, R.E., 2010. Multivariate data analysis,;;seventh ed. Prentice Hall Higher Education.
+Heide, J.B., John, G.,;; 1992. Do Norms Matter in Marketing Relationships? J.
+Marketing 56,;; 32–44.
+Hobbs, J.E.,;; 1997. Measuring the importance of transaction costs in cattle
+marketing. Am. J. Agric. Econ. 79,;; 1083–1095.
+Jacobsen, B.H.,;;Agric. Manage. 1.
+Jacobsen, B.H., Sørensen, C.G., Hansen, J.F.,;;technical and economical system analysis]. Fødevareøkonomisk Institut.
+Kaiser, H.F., 1970. A second generation little jiffy. Psychometrika 35,;; 401–415.
+Kang, M.S., Srivastava, P., Tyson, T., Fulton, J.P., Owsley, W.F., Yoo, K.H.,;;212–224.
+Koesling, M., Ebbesvik, M., Lien, G., Flaten, O., Valle, P.S., Arntzen, H.,;;risk management in organic and conventional cash crop farming in Norway.
+Food Econom. – Acta Agric. Scandinavica, Section C 1,;; 195–206.
+Kronvang, B., Andersen, H.E., Børgesen, C., Dalgaard, T., Larsen, S.E., Bøgestrand, J.,;;Blicher-Mathiasen, G., 2008. Effects of policy measures implemented in;;Denmark on nitrogen pollution of the aquatic environment. Environ. Sci.
+Policy 11,;; 144–152.
+Lopez-Ridaura, S., Werf, H.v.d., Paillat, J.M., Le Bris, B.,;;assessment. J. Environ. Manage. 90, 1296–1304.
+Macgregor, C.J., Warren, C.R.,;;stems 128 (2014) 55–65Medlin, C.J., Aurifeille, J.-M., Quester, P.G., 2005. A collaborative interest model of;;relational coordination and empirical results. J. Business Res. 58, 214–222.
+Mikkelsen, S., Iversen, T.M., Jacobsen, B.H., Kjær, S.S.,;;Union: Reducing Nutrient Losses from Intensive Livestock Operations. In:
+Gerber, P., Mooney, H.A., Dijkman, J., Tarawali, S., de Haan, C. (Eds.),;;a Changing Landscape. Island Press, Washington DC.
+Morgan, R.M., Hunt, D.S.,;; 1994. The commitment-trust theory of relationship
+marketing. J. Marketing 58,;; 20–38.
+Morrison, M., Oczkowski, E., Greig, J.,;;improve environmental outcomes. Aust. J. Agric. Resour. Econ. 55, 560–578.
+Núñez, J., McCann, L.,;; 2004. Crop farmers’ willingness to use manure. American
+Agricultural Economics Association Annual Meeting, Denver,;; Colorado.
+OECD,;;surpluses in Agriculture of the Netherlands. Centre for Tax Policy and
+Administration, OECD,;; Paris France.
+Oomen, M.,;;manure as currently used by the Dutch government. A Greener Agriculture for a
+Bluer Baltic Sea International agri-environmental conference. Copenhagne,;;Denmark.
+Paudel, K.P., Bhattarai, K., Gauthier, W.M., Hall, L.M.,;;environmental quality consideration. Waste Manage. 29, 1634–1643.
+Pingali, P., Khwaja, Y., Meijer, M.,;; 2005. Commercializing small farms: reducing
+transaction costs the future of small farms,;;Agriculture Organization (FAO).
+Pretty, J., Smith, D.,;; 2004. Social capital in biodiversity conservation and
+management. Conserv. Biol. 18,;; 631–638.
+R Development Core Team,;; 2013. R: A language and environment for statistical
+computing, In: Computing, R.F.f.S. (Ed.), Vienna,;; Austria.
+Reidsma, P., Ewert, F., Lansink, A.O., Leemans, R.,;;responses. Eur. J. Agronomy 32, 91–102.
+Smith, R.J.N., Glegg, G.A., Parkinson, R., Richards, J.P.,;;actor-orientated approach. Eur. Environ. 17, 124–144.
+Van der Straeten, B., Buysse, J., Nolte, S., Lauwers, L., Claeys, D., Van Huylenbroeck,;;G., 2010. A multi-agent simulation model for spatial optimisation of manure;;allocation. J. Environ. Plan. Manage. 53, 1011–1030.
+van Grinsven, H.J.M., ten Berge, H.F.M., Dalgaard, T., Fraters, B., Durand, P., Hart, A.,;;Hofman, G., Jacobsen, B.H., Lalor, S.T.J., Lesschen, J.P., Osterburg, B., Richards,
+K.G., Techen, A.K., Vertès, F., Webb, J., Willems, W.J., 2012. Management,;;5143–5160.
+van Ittersum, M.K., Rabbinge, R.,;;and quantification of agricultural input–output combinations. Field Crops Res.
+52,;; 197–208.
+Wilkins, R.J.,;;increased integration of crop and animal production systems. Philos. Trans.
+Royal Soc. B: Biol. Sci. 363,;; 517–525.
+Williamson, Q.E., 2000. The new institutional economics: Taking stock,;;M. Asai et al. / Agricultural Systems 128 (2014) 55–65 65;;

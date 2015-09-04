@@ -1,0 +1,1 @@
+transaction 193;;costs 179;;policy 114;;parties 59;;environmental 57;;information 37;;also 35;;public 33;;influences 32;;private 32;;

@@ -1,0 +1,1 @@
+governance 126;;trust 63;;chain 60;;supply 53;;relational 48;;performance 44;;costs 35;;contracts 32;;transaction 31;;contractual 31;;

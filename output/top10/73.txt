@@ -1,0 +1,1 @@
+logistics 176;;service 153;;icfs 103;;icf 99;;providers 96;;provider 93;;services 81;;focal 61;;asset 56;;specificity 56;;

@@ -1,0 +1,1 @@
+csa 86;;households 45;;attributes 33;;food 28;;local 26;;environmental 25;;products 24;;variable 23;;farmers 22;;may 22;;

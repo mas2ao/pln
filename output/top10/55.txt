@@ -1,0 +1,1 @@
+debt 149;;operating 67;;firm 65;;specificity 59;;states 56;;asset 53;;payoff 51;;profitability 50;;liquidating 47;;payment 47;;

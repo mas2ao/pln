@@ -1,0 +1,1 @@
+suppliers 66;;manufacturer 66;;supplier 54;;relationships 54;;transaction 51;;supply 50;;specificity 50;;costs 49;;companies 47;;asset 41;;

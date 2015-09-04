@@ -1,0 +1,69 @@
+Anderson, E., Schmittlein, D., 1984. Integration of the sales force: a;;empirical examination. Rand Journal of Economics 15, 385–395.
+Apte, U.M., Mason, R.O.,;; 1995. Global disaggregation of informa-
+tion—intensive services.Management Science 41 (7),;; 1250–1262.
+Aron, R., Clemons,;; E.K. (2004). Off-shore outsourcing of services:;;ernance structures, WISE 2004. Baltimore.
+Aron, R., Singh, J. Getting offshoring right. Harvard Business Review,;;December 2005.
+Baiman, S., Fischer, P., Rajan, M., 2000. Information, contracting,;;quality costs. Management Science 46 (6), 776–789.
+Baker, G., Gibbons, R., Murphy, K.,;; 2002. Relational contracts and
+the theory of the firm. Quarterly Journal of Economics 117 (1),;;39–84.
+Bozarth, C., Handfield, R., Das, A.,;;strategy evolution: an exploratory study. Journal of Operations
+Management 16 (2–3),;; 241–255.
+Brynjolfsson, E., 1994. Information assets, technology,;;tion. Management Science 40 (12), 1645–1662.
+Brynjolfsson, E., Malone, T., Gurbaxani, V., Kambil, A.,;;Science 40 (December (12)), 1628–1644.
+Cachon, G., Harker, P.,;; 2002. Competition and outsourcing with scale
+economies. Management Science 48 (10),;; 1314–1333.
+Che, Y., Hausch, D.,;;contracting: Coase vs. Williamson. American Economic Review
+89,;; 125–147.
+Chopra, S., Lovejoy, W., Yano, C.,;;management and the prospects ahead. Management Science 50
+(1),;; 8–14.
+Clemons, E.K., Kleindorfer, P.R.,;;interorganizational information technology. Decision Support
+Systems 8,;; 431–447.
+Clemons, E.K., Row, M.C.,;;ownership. Journal of Management Information Systems 9 (2), 9–
+28.
+Coase, R.H., 1937. The nature of the firm. Economica 4 (16),;; 386–
+405.
+Crocker, K.J., Masten, S.E.,;;unilateral options and contract length. Rand Journal of Economics
+19,;; 327–343.
+Edlin, A., Reichelstein, S., 1996. Holdups, standard breach remedies,;;and optimal investment. American Economic Review 86, 478–501.
+Forrester,;;Report.
+Gartner,;;Research Report.
+Gopal, A., Sivaramakrishnan, K., Krishnan, M.S., Mukhopadhyay, T.,;;2004. Contracts in offshore software development: an empirical
+analysis. Management Science 49 (12),;; 1671–1683.
+Grossman, S.,;;vertical and lateral integration. The Journal of Political Economy
+9,;; 691–719.
+Gunasekaran, A., Ngai, E.W.T.,;;management: a literature review and framework for development.
+Journal of Operations Management 23 (2005),;; 423–451.
+Gurbaxani, V., Whang, S.,;; 1991. The impact of information systems
+on organizations and markets. Communications of the ACM 34,;;59–73.
+Hart, O., Moore, J.,;; 1990. Property rights and the nature of the firm.
+The Journal of Political Economy 98,;; 1119–1158.
+Hitt, L.,;; 1999. Information technology and firm boundaries: evidence
+from panel data. Information Systems Research 10,;; 134–149.
+Holmstrom, B.,;; 1994. The firm as an incentive system. The American
+Economic Review 84,;; 972–991.
+Joskow, P.L.,;;ment: empirical evidence from coal markets. American Economic
+Review 77,;; 168–185.
+Klein, B., Crawford, R.G., Alchian, A.A., 1978. Vertical integration,;;appropriable rents and the competitive contracting process. The
+Journal of Law and Economics 21 (2),;; 297–326.
+Luce, R.D., Raiffa, H.,;; 1957. Games and Decisions: Introduction and
+Critical Survey, first ed. Wiley,;; New York.
+Malone, T., Yates, J., Benjamin, R.,;; 1987. Electronic markets and
+electronic hierarchies. Communications of the ACM 30 (6),;; 484–
+497.
+Masten, S.E.,;;production: the make or buy decision. Journal of Institutional
+and Theoretical Economics 142,;; 493–509.
+Noldeke, G., Schmidt, K.,;; 1995. Option contracts and renegotiation: a
+solution to the hold-up problem. Rand Journal of Economics 26,;;163–179.
+Palay, T.M.,;; 1984. Comparative institutional economics: the govern-
+ance of the rail freight contract. Journal of Legal Studies (13),;;265–288.
+Reyniers, D.,;; 1992. Supplier–customer interaction in quality control.
+Annals of Operations Research 34,;; 307–330.
+Reyniers, D., Tapiero, C.,;;quality in a conflictual environment. European Journal of Opera-
+tional Research 82,;; 373–382.
+Reyniers, D., Tapiero, C.,;; 1995b. The delivery and control of quality in
+supplier–producer contracts. Management Science 41,;; 1581–
+1589.
+Williamson, O.E.,;; 1979. Transaction-cost economics: the governance
+of contractual relations. The Journal of Law and Economics 22,;;233–261.
+Williamson, O.E., Winter, S.G.,;; 1993. The Nature of the Firm:
+Origins,;;R. Aron et al. / Journal of Operations Management 26 (2008) 303–321 321;;
